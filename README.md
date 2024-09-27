@@ -57,6 +57,9 @@ The application includes the following key functionalities:
 ---
 
 ## 📸 **Screenshots**
+![1](https://github.com/user-attachments/assets/1282aa9e-4a38-4d80-91fc-f5fac283a823)
+![2](https://github.com/user-attachments/assets/a5d162fc-9e33-449b-bff0-722b9ab188a7)
+![3](https://github.com/user-attachments/assets/e65d5952-c380-4e8d-96c9-3e881bc01f0a)
 
 
 ---
